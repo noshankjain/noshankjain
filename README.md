@@ -1,16 +1,32 @@
 # Hi, I'm Noshank 👋  
 
 🎓 Computer Science Engineering Student @ MGIT  
-💡 Enthusiastic about Programming, Problem-Solving & Building Cool Projects  
-🚀 Exploring Web Development | Backend | Databases  
+💡 I build intelligent systems that mix AI, backend logic, and real-time data  
+🚀 Exploring Computer Vision, Multi-Agent Systems & Full-Stack Development  
 
 ---
 
 ## 🌟 About Me  
-- 🌱 Currently diving deeper into **Node.js, Flask & PostgreSQL**  
-- 🧑‍💻 Worked on projects like **AutoCV (Real-time Resume Builder)** and **TODO Web App**  
-- 🎤 Active in college events: **anchoring, volunteering, hackathons**  
-- ⚡ Fun fact: I enjoy exploring new tech and turning ideas into projects  
+
+- 🌱 Currently working on **Smart Surveillance – Real-Time Video Analytics with Collaborative Agents**  
+- 🧠 Built a multi-agent system using **YOLOv8, DeepSORT, Redis Pub/Sub, Flask & React**  
+- 🧑‍💻 Previously built **AutoCV (Real-Time Resume Builder)** and a **TODO Web Application**  
+- 🎤 Actively involved in college events including anchoring, volunteering, and hackathons  
+- ⚡ I enjoy turning complex ideas into working systems that solve real problems  
+
+---
+
+## 🚀 Highlight Project  
+
+### 🛡️ Smart Surveillance – Real-Time Collaborative Security System  
+An intelligent surveillance platform that analyzes live camera feeds and detects abnormal human behavior in real time.
+
+**What it does:**  
+- Detects and tracks people using **YOLOv8 + DeepSORT**  
+- Uses **collaborative agents** to analyze behavior like loitering and falls  
+- Communicates between agents using **Redis Pub/Sub**  
+- Streams alerts and visuals to a live **React dashboard**  
+- Supports **Webcam, CCTV RTSP streams, and DroidCam phone camera input**
 
 ---
 
@@ -29,8 +45,10 @@
 ![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 
-### Databases & Tools  
+### AI / Databases / Tools  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white)  
 
@@ -44,4 +62,3 @@
 
 ---
 
-✨ *“Code, Learn, Build, Repeat.”*  
