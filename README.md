@@ -47,15 +47,6 @@ A web platform that lets users build professional resumes with live preview.
 
 ---
 
-### ✅ TODO Web Application  
-A 3-tier task management system built as part of Node.js lab coursework.
-
-- Task categorization into **Personal & Work**  
-- Backend with **Node.js + PostgreSQL**  
-- Clean UI with category-wise filtering
-
----
-
 ## 🛠️ Tech Stack  
 
 ### Languages  
