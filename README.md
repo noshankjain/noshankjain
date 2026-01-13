@@ -80,4 +80,3 @@ A web platform that lets users build professional resumes with live preview.
 
 ---
 
-✨ *I build systems that don’t just run — they observe, decide, and act.*
