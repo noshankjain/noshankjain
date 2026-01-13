@@ -1,32 +1,58 @@
 # Hi, I'm Noshank 👋  
 
 🎓 Computer Science Engineering Student @ MGIT  
-💡 I build intelligent systems that mix AI, backend logic, and real-time data  
-🚀 Exploring Computer Vision, Multi-Agent Systems & Full-Stack Development  
+💡 I design intelligent systems that blend AI, backend engineering, and real-time data pipelines  
+🚀 Currently focused on Computer Vision, Distributed Systems & Full-Stack Development  
 
 ---
 
 ## 🌟 About Me  
 
-- 🌱 Currently working on **Smart Surveillance – Real-Time Video Analytics with Collaborative Agents**  
-- 🧠 Built a multi-agent system using **YOLOv8, DeepSORT, Redis Pub/Sub, Flask & React**  
-- 🧑‍💻 Previously built **AutoCV (Real-Time Resume Builder)** and a **TODO Web Application**  
+- 🌱 Building real-time systems powered by **AI, message brokers, and live dashboards**  
+- 🧠 Enjoy working on projects that involve **stream processing, multi-agent collaboration, and automation**  
 - 🎤 Actively involved in college events including anchoring, volunteering, and hackathons  
-- ⚡ I enjoy turning complex ideas into working systems that solve real problems  
+- ⚡ I love turning complex technical ideas into practical, working systems  
 
 ---
 
-## 🚀 Highlight Project  
+## 🚀 Projects
 
 ### 🛡️ Smart Surveillance – Real-Time Collaborative Security System  
-An intelligent surveillance platform that analyzes live camera feeds and detects abnormal human behavior in real time.
+An AI-powered surveillance platform that analyzes live camera feeds and detects abnormal human behavior.
 
-**What it does:**  
 - Detects and tracks people using **YOLOv8 + DeepSORT**  
-- Uses **collaborative agents** to analyze behavior like loitering and falls  
-- Communicates between agents using **Redis Pub/Sub**  
-- Streams alerts and visuals to a live **React dashboard**  
-- Supports **Webcam, CCTV RTSP streams, and DroidCam phone camera input**
+- Uses **collaborative agents** to analyze loitering and fall incidents  
+- Inter-agent communication through **Redis Pub/Sub**  
+- Streams alerts and bounding boxes to a **React live dashboard**  
+- Supports **Webcam, CCTV RTSP, and DroidCam phone camera input**
+
+---
+
+### 🏙️ Urban Pulse – Global Real-Time IoT Sensor Network  
+A full data-engineering pipeline for monitoring environmental conditions across major cities worldwide.
+
+- Simulates **30+ concurrent IoT devices** using MQTT  
+- Real-time ingestion via **RabbitMQ** with ETL orchestration in **Mage AI**  
+- Stores geo-tagged AQI and temperature data in **PostgreSQL**  
+- Visualizes data on an interactive **Streamlit geospatial dashboard**
+
+---
+
+### 📄 AutoCV – Real-Time Resume Builder  
+A web platform that lets users build professional resumes with live preview.
+
+- User authentication with secure login  
+- Dynamic resume form with live PDF preview  
+- Resume generation using **Flask + PostgreSQL + ReportLab**
+
+---
+
+### ✅ TODO Web Application  
+A 3-tier task management system built as part of Node.js lab coursework.
+
+- Task categorization into **Personal & Work**  
+- Backend with **Node.js + PostgreSQL**  
+- Clean UI with category-wise filtering
 
 ---
 
@@ -48,6 +74,7 @@ An intelligent surveillance platform that analyzes live camera feeds and detects
 ### AI / Databases / Tools  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)  
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)  
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white)  
@@ -62,3 +89,4 @@ An intelligent surveillance platform that analyzes live camera feeds and detects
 
 ---
 
+✨ *I build systems that don’t just run — they observe, decide, and act.*
